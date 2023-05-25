@@ -7,6 +7,11 @@ Interview.docx 百题面试大讨论
 
 InterviewTips.docx 一些 BQ 的模拟回答，可以自己写一下看看
 
+SkillMax.zip 以前悉尼 SkillMax 教新移民找工作的资料，比较 generic
+
+VIC-Skillmax.zip 以前维州交怎么找工作的资料，有些 Cover letter 的 Sample
+
+
 ## 其他 behaviour questions
 
 Amazon 的，里面有些回答时的 principle，挺好
