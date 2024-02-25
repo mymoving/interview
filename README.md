@@ -1,17 +1,17 @@
 # interview
 
 ## Repo 文件
-70_Toughest_Interview_Questions_1708898100.pdf  一个 Recruiter 的 notes，cover 了大部分 bq 和 sample answer
+- 70_Toughest_Interview_Questions_1708898100.pdf 一个 Resume writer 的 notes，cover 了大部分 bq 和 sample answer
 
-Interview-questions.docx 一些 BQ 的分析和怎样回答
+- Interview-questions.docx 一些 BQ 的分析和怎样回答
 
-Interview.docx 百题面试大讨论
+- Interview.docx 百题面试大讨论
 
-InterviewTips.docx 一些 BQ 的模拟回答，可以自己写一下看看
+- InterviewTips.docx 一些 BQ 的模拟回答，可以自己写一下看看
 
-SkillMax.zip 以前悉尼 SkillMax 教新移民找工作的资料，比较 generic
+- SkillMax.zip 以前悉尼 SkillMax 教新移民找工作的资料，比较 generic
 
-VIC-Skillmax.zip 以前维州交怎么找工作的资料，有些 Cover letter 的 Sample
+- VIC-Skillmax.zip 以前维州交怎么找工作的资料，有些 Cover letter 的 Sample
 
 
 ## 其他 behaviour questions
