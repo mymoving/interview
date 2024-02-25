@@ -1,6 +1,8 @@
 # interview
 
 ## Repo 文件
+70_Toughest_Interview_Questions_1708898100.pdf  一个 Recruiter 的 notes，cover 了大部分 bq 和 sample answer
+
 Interview-questions.docx 一些 BQ 的分析和怎样回答
 
 Interview.docx 百题面试大讨论
