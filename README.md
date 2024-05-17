@@ -34,6 +34,10 @@ https://github.com/Appsilon/awesome-interview-questions
 
 ## 前端技术面 interview questions
 
+### TypeScript interview questions
+
+https://github.com/Devinterview-io/typescript-interview-questions
+
 ### HTML5
 
 https://github.com/adwaitya/html5-interview-questions
