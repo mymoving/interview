@@ -55,3 +55,7 @@ https://github.com/sudheerj/reactjs-interview-questions
 
 https://github.com/rohan-paul/Awesome-JavaScript-Interviews
 
+### C# .net
+
+https://github.com/StefanTheCode/dotnet_interview_questions
+
