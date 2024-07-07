@@ -59,3 +59,7 @@ https://github.com/rohan-paul/Awesome-JavaScript-Interviews
 
 https://github.com/StefanTheCode/dotnet_interview_questions
 
+### Java
+
+https://github.com/a11exe/java-interview
+
