@@ -65,3 +65,6 @@ https://github.com/StefanTheCode/dotnet_interview_questions
 
 https://github.com/a11exe/java-interview
 
+### Python
+https://github.com/Devinterview-io/python-interview-questions
+
