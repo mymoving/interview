@@ -1,6 +1,8 @@
 # interview
 
 ## Repo 文件
+- Interview_Preparation_Roadmap1715079424.pdf 如何准备面试（英文版）
+
 - 70_Toughest_Interview_Questions_1708898100.pdf 一个 Resume writer 的 notes，cover 了大部分 bq 和 sample answer
 
 - 行为面试问题+参考Behavioral Interview Questions with Answers.pdf 一些常见行为面试的解析和回答
